@@ -11,6 +11,8 @@ The Academic Helper App is a Streamlit-based application to assist in various ac
 - **Chat Interface**: A chatbot for general queries and assistance.
 - **Custom Prompt Generator**: Allows users to create custom prompts for specific needs.
 
+Remember to change the various system prompts to suit your needs. 
+
 ## Installation
 1. Clone the repository:
    ```
