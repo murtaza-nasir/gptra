@@ -31,7 +31,7 @@ Remember to change the various system prompts to suit your needs.
 ## Usage
 To run the app, navigate to the app directory and execute:
 ```
-streamlit run app.py
+streamlit run gptra.py
 ```
 
 ## License
