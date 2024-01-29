@@ -39,9 +39,11 @@ This project is licensed under the AGPL-3.0 license.
 
 ## Citation
 If you use this application in your research or work, please cite it as follows:
-- **APA**: Nasir, M. (2024). Academic Helper App. Retrieved from [https://murtaza.cc](https://murtaza.cc)
-- **MLA**: Nasir, Murtaza. "Academic Helper App". 2024, [https://murtaza.cc](https://murtaza.cc).
-- **Chicago**: Nasir, Murtaza. 2024. "Academic Helper App". [https://murtaza.cc](https://murtaza.cc).
+
+- **APA**: Nasir, M. (2024). *GPTRA*. GitHub. Retrieved January 28, 2024, from https://github.com/murtaza-nasir/gptra.git
+- **MLA**: Nasir, Murtaza. *GPTRA*. 2024, https://github.com/murtaza-nasir/gptra.git.
+- **Chicago**: Nasir, Murtaza. 2024. *GPTRA*. Accessed January 28, 2024. https://github.com/murtaza-nasir/gptra.git.
+
 
 For any further inquiries or contributions, please visit [Dr. Murtaza Nasir's website](https://murtaza.cc).
 
